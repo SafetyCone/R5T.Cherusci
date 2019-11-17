@@ -1,4 +1,6 @@
 R5T.Cherusci - A codenamed library of stringly-typed COMMON file-extension values.
 
+Related to R5T.Phillipi.
+
 Goals
 
